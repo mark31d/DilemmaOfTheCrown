@@ -51,4 +51,4 @@ workflows:
       app_store_connect:
         auth: integration
         submit_to_app_store: true
-        copyright: Leon Shield 2025
+        copyright: Dilemma of the Crown 2025
